@@ -1,2 +1,2 @@
 # PatatapClone
-Front-end exercise, simply clone the patatop.com
+Front-end exercise, simply clone the patatap.com
